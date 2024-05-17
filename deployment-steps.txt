@@ -18,8 +18,6 @@
 	4. Pull Your image from ECR in EC2
 	5. Lauch your docker image in EC2
 
-
-
 	Policy:
 	1. AmazonEC2ContainerRegistryFullAccess
 	2. AmazonEC2FullAccess
